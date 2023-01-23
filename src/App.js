@@ -23,6 +23,7 @@ return (
     <Movieslist movies = {movies} inputSearch = {inputSearch}/>
     <Addmovie add={add}/>
     
+    
     </div>
 );
 }
